@@ -1,0 +1,16 @@
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.exe
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.deps.json
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.runtimeconfig.json
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.runtimeconfig.dev.json
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.dll
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\ref\callsoapwebservice.dll
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\bin\Debug\net5.0\callsoapwebservice.pdb
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.csproj.AssemblyReference.cache
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.AssemblyInfoInputs.cache
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.AssemblyInfo.cs
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.dll
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\ref\callsoapwebservice.dll
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.pdb
+C:\Users\Gaurav.LENOVO-OCT-2020\Desktop\callsoapwebservice\callsoapwebservice\obj\Debug\net5.0\callsoapwebservice.genruntimeconfig.cache
